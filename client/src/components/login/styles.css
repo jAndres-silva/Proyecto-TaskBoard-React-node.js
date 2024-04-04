@@ -1,0 +1,18 @@
+.btn-bd-primary {
+    font-weight: 600;
+    color: #fff !important;
+    background-color: #008000 !important; 
+    border-color: #008000 !important;
+  }
+  
+  .btn-bd-primary:hover,
+  .btn-bd-primary:active {
+    color: #fff !important;
+    background-color: #006400 !important; 
+    border-color: #006400 !important;
+  }
+  
+  .btn-bd-primary:focus {
+    box-shadow: 0 0 0 3px rgba(121, 82, 179, 0.25) !important;
+  }
+  
